@@ -2,5 +2,5 @@
 Prime_number = []
 
 Prime_number.prime? do |x|
-  x > 1 
+  x.prime
 end
